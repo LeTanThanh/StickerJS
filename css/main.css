@@ -1,0 +1,36 @@
+.sticker {
+  width: 180px;
+  height: 180px;
+}
+
+.example-1 .sticker-img {
+  background-image: url("../images/heroes-1.png");
+}
+
+.example-2 .sticker-img {
+  background-image: url("../images/heroes-2.png");
+}
+
+.example-3 .sticker-img {
+  background-image: url("../images/heroes-3.png");
+}
+
+.example-4 .sticker-img {
+  background-image: url("../images/heroes-4.png");
+}
+
+.example-5 .sticker-img {
+  background-image: url("../images/heroes-5.png");
+}
+
+.example-6 .sticker-img {
+  background-image: url("../images/heroes-6.png");
+}
+
+.sticker-shadow {
+  opacity: 0.6;
+}
+
+.thumbnail {
+  border: none;
+}
